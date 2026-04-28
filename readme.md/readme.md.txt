@@ -47,7 +47,7 @@ Raw CSV → Data Generation → Validation → Classification → PostgreSQL
 
 ---
 
-### 2️⃣ Data Validation
+Data Validation
 Implemented rule-based validation logic:
 - Missing / null patient IDs
 - Invalid or extreme claim amounts
